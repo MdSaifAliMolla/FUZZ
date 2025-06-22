@@ -1,7 +1,6 @@
 # 🐚 FUZZ — A Minimal Custom Shell
 
 FUZZ is a lightweight custom shell implementation written in C.  
-It handles basic commands, built-ins, and sets the stage for learning low-level Unix internals.
 
 | Command     | Description                             |
 |-------------|-----------------------------------------|
