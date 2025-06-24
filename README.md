@@ -7,7 +7,7 @@ FUZZ is a lightweight custom shell implementation written in C.
 | `fecho`     | Like `echo`, but fuzzier                |
 | `fenv`      | Prints environment variables            |
 | `fexit`     | Exits the shell gracefully              |
-| `uwu`       | Just try it. You’ll see 😉               |
+| `uwu`       | Just try it.              |
 | `fwhoami`   | Prints the current user                 |
 | `fls`       | Lists files in the current directory    |
 | `fcd`       | Changes the current directory           |
